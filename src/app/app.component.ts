@@ -4,7 +4,7 @@ import {Component} from '@angular/core';
   selector: 'app-root',
   standalone: true,
   template: `
-    Hello Universe
+    Future Home for Laura's Website
   `
 })
 export class AppComponent {}
