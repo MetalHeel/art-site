@@ -3,8 +3,8 @@ import {Component} from '@angular/core';
 @Component({
   selector: 'app-root',
   standalone: true,
-  template: `
-    Future Home for Laura's Website
-  `
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
 })
-export class AppComponent {}
+export class AppComponent {
+}
