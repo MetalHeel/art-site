@@ -1,0 +1,31 @@
+.mobile-links-container {
+	float: left;
+	width: fit-content;
+	text-align: left;
+	padding-left: 5%;
+}
+
+.mobile-social-image {
+	width: auto;
+	height: 100%;
+}
+
+.mobile-social-link {
+	width: 7.5vw;
+	height: 7.5vw;
+	display: inline-block;
+	padding-top: 5%;
+	padding-right: 2vw;
+}
+
+.mobile-title {
+	font-size:7.5vw;
+	color: #262626;
+	font-style: italic;
+	text-shadow: 5px 5px 10px #000;
+	margin: 0;
+}
+
+.mobile-title-container {
+	float: left;
+}

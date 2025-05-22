@@ -1,0 +1,24 @@
+.links-container {
+	margin-top: 15px;
+}
+
+.main-title {
+	font-size: calc(20px + 2vw);
+	color: #262626;
+	font-style: italic;
+	text-shadow: 5px 5px 10px #000;
+	margin: 0;
+}
+
+.social-image {
+	width: auto;
+	height: 100%;
+}
+
+.social-link {
+	width: calc(15px + 1.5vw);
+	height: calc(15px + 1.5vw);
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
+}
